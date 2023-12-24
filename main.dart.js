@@ -95982,7 +95982,7 @@ p.sUb(B.IA)
 p=new A.aAp(p)
 q=new A.FJ(new A.az2(s,a),p,B.Ah,q)
 p.f=q
-return new A.tc(B.CH,q,"Reddit Tutorial",r,!1,null)},
+return new A.tc(B.CH,q,"Chat Dumpster",r,!1,null)},
 $S:624}
 A.az2.prototype={
 $1(a){var s,r=this.b
